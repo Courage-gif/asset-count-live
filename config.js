@@ -1,2 +1,2 @@
-window.SUPABASE_URL = "PASTE_YOUR_PROJECT_URL_HERE";
-window.SUPABASE_KEY = "PASTE_YOUR_PUBLISHABLE_KEY_HERE";
+window.SUPABASE_URL = "https://izvwgcgamumfqgpwtkmy.supabase.co/rest/v1/";
+window.SUPABASE_KEY = "sb_publishable_tOsOhaihJ3EN57zvFL4ifg_pA4oBSBd";
